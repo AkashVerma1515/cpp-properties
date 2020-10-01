@@ -1,4 +1,4 @@
-# cpp-properties
+# CPP-properties
 A small C++ Java properties parser.
 
 ## How to build
